@@ -1,0 +1,20 @@
+a{text-decoration: none !important; color: #999 !important;}
+a:hover{color:#333 !important}
+body{color:#999 !important}
+h1, h2, h3, h4, h5, h6{color: #333 !important;}
+
+pre[class*="language-"]{position: relative; overflow: auto; margin: 5px 0; padding: 1rem 1rem 0rem 1rem; border-radius: 10px;}
+pre[class*="language-"] button{position: absolute; top: 5px; right: 5px; font-size: 0.9rem; padding: 0.25rem 0.5rem; background-color: #e2e2e2; border: ridge 1px #e2e2e2; border-radius: 5px; text-shadow: #c4c4c4 0 0 2px; color: #333 !important;}
+pre[class*="language-"] button:hover{cursor: pointer; background-color: #e8e8e8;}
+
+.fixed-sidebar {position: fixed; top: 0; left: 0; z-index: 100; overflow-y: auto; height: 100vh;}
+
+@media (max-width: 768px) 
+{
+    .fixed-sidebar{position: static; height: auto;}
+}
+
+@media (min-width: 768px) 
+{
+    .main-content {margin-left: 25%;}
+}

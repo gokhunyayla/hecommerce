@@ -21,5 +21,4 @@ The purpose of development the template is to provide people a multi functional 
 Additional Notes:
 There are some different ideas like user dashboard for E-commerce and comment preview on product detail page have been applied to the template.
 
-All the template are created within Webtangular Team with the leading Gokhun Yayla
-Visit Webtangular -> https://webtangular.com
+Note: This template is produced for training purposes. However, anyone is allowed use freely in any projects.
